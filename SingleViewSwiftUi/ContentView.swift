@@ -4,7 +4,7 @@ struct MainScreen: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("Welcome to swiftUI SWIFT")
+                Text("Welcome to swiftUI SWIFT APP")
                     .font(.title)
                     .padding()
                 
